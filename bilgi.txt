@@ -1,0 +1,21 @@
+1-
+Git Bash Kurulduktan Sonra kullanıcı bilgilerimizi aşağıdaki şekilde giriyoruz:
+
+git config --global user.name "Caner Mollaoğlu"
+
+git config --global user.email "canermollaoglu@hotmail.com
+
+2-
+Git versiyon kontrol sistemini entegre etmek istediğimiz klasöre konumlanmamız gerekiyor. (D:\KODLAMA\YMYP4\4-GitGithub)
+
+cd /D/KODLAMA/YMYP4/4-GitGithub
+
+3-
+git init komutu çalıştırılır. Bu şekilde .git klasörü projemize eklendi ve local repository'miz yapıldı.
+
+4-
+
+
+
+
+

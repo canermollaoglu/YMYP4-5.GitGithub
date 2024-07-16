@@ -35,5 +35,15 @@ Sistemde yapılan tüm commitleri izlemek için aşağıdaki komut çalıştır�
 
 git log 
 
+8-
+Proje klasörümüzde bulanan tüm dosyaların versiyonlanmasını istemeyebiliriz. Bu durumda gitignore dosyasını kullanırız. Bunun için hazır templateler bulunmaktadır:
+
+https://github.com/github/gitignore
+https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
+
+ya da dosya içerisine direkt olarak:
+bilgi.txt şeklinde dosya ismi de verebiliriz.
+
+
 
 

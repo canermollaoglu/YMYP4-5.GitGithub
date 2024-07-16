@@ -14,8 +14,26 @@ cd /D/KODLAMA/YMYP4/4-GitGithub
 git init komutu çalıştırılır. Bu şekilde .git klasörü projemize eklendi ve local repository'miz yapıldı.
 
 4-
+Versiyonlayarak kontrol etmek istediğimiz bilgi.txt dosyası staging area'ya elenir.
 
+git add bilgi.txt
+git add . (klasörde bulunan tüm dosyalar staging'e eklenir.)
 
+5-
+Sistemdeki mevcut değişiklikleri izlemek için aşağıdaki komutu çalıştırabiliriz:
+
+git status
+
+6-
+COMMİT
+bilgi.txt dosyamızın ilk versiyonunu oluşturmak için commit atarız.
+
+git commit -m "bilgi dosyası eklendi"
+
+7-
+Sistemde yapılan tüm commitleri izlemek için aşağıdaki komut çalıştırılır:
+
+git log 
 
 
 

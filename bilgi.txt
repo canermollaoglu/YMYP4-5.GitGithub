@@ -44,6 +44,17 @@ https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 ya da dosya içerisine direkt olarak:
 bilgi.txt şeklinde dosya ismi de verebiliriz.
 
+PROJENİN GİTHUB'A AKTARIMI
 
+9-
+Github hesabımızda bir repository oluşturduk, repository adresimizi aldık:
+https://github.com/canermollaoglu/YMYP4-AracTakipSistemi.git
+
+10-
+Remote repository'mize bir isim verdik.
+$ git remote add origin https://github.com/canermollaoglu/YMYP4-AracTakipSistemi.git
+
+11-
+git push -u origin main
 
 
